@@ -1,0 +1,15 @@
+  To get started:
+
+        cd youtube-player
+        npm run dev
+
+  To build & start for production:
+
+        cd youtube-player
+        npm run build
+        npm run start
+
+  To test:
+
+        cd youtube-player
+        npm run test
